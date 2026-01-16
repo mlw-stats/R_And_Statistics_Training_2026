@@ -1,2 +1,6 @@
-# R_And_Statistics_Training_2026
-This repository holds slides, exercises and other training materials from the R and statistics course held at MLW in January &amp; February 2026. All slides and non-code materials are subject to a CC BY 4.0 license and all code files are subject to an MIT license.
+# R And Statistics Training 2026
+
+This repo contains teaching materials from the January - February 2026 session of the MLW R &amp; stats training course.
+
+All code files are made available as is, without warranty, and under an MIT license.
+All teaching content (including slides and hand-outs) are made available under a Creative Commons CC BY 4.0 license.
